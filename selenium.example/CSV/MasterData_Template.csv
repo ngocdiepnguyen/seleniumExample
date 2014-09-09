@@ -1,0 +1,9 @@
+Task No,Test Class,Execute,File Name,WorkSheet,StartRow,EndRow,Test Case Name,Dependency,Report
+1,HandleTab,Y,CSV/HandleTab.csv,,1,1,,,Y
+2,BuyingItem,Y,CSV/BuyingItem.csv,,1,1,,,Y
+3,appiumTest,N,CSV/TestCaseZoomDeviceRegistryScreen.csv,,2,2,Zoom Device Registry Screen,,Y
+4,appiumTest,N,CSV/TestCaseAddNewDevice.csv,,2,3,Add New Device,,Y
+5,appiumTest,N,CSV/TestCaseAddEditNotExistingSerial.csv,,2,2,Add/Edit Not Existing Serial,,Y
+6,appiumTest,N,CSV/TestCaseAddEditExistingSerial.csv,,2,2,Add/Edit Existing Serial,,Y
+7,appiumTest,N,CSV/TestCaseRemoveAloneDevice.csv,,2,2,Remove Alone Device,,Y
+8,appiumTest,N,CSV/TestCaseMoveAloneDevice.csv,,2,2,Move Alone Device,,Y

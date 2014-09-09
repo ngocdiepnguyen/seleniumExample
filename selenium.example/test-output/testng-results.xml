@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1854173" started-at="2014-08-01T02:30:22Z" finished-at="2014-08-01T03:01:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1854173" started-at="2014-08-01T02:30:22Z" finished-at="2014-08-01T03:01:16Z">
+      <class name="testcase.TestFeatureInBuyingAreaLine1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestFeatureInBuyingAreaLine1@1bfc2eb]" name="setUp" is-config="true" duration-ms="15325" started-at="2014-08-01T09:30:22Z" finished-at="2014-08-01T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBuyingItem()[pri:0, instance:testcase.TestFeatureInBuyingAreaLine1@1bfc2eb]" name="testBuyingItem" duration-ms="1835763" started-at="2014-08-01T09:30:38Z" finished-at="2014-08-01T10:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuyingItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestFeatureInBuyingAreaLine1@1bfc2eb]" name="tearDown" is-config="true" duration-ms="2986" started-at="2014-08-01T10:01:13Z" finished-at="2014-08-01T10:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestFeatureInBuyingAreaLine1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
