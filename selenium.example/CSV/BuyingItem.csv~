@@ -1,4 +1,0 @@
-No	Qty	Username	Password	Email address	Title	First name	Last name	Company	Address	Unit number	City	Postal code	Country	Mobile	Payment method	Set credit default	Permission email	Agree policies
-1	3	abc@gmail.com	123456	abc@gmail.com	Mr.	diep	nguyen	Enclave	DN	1	DN	1111	Singapore	123455678	paypal	N	N	Y
-2	4	123@gmail.com	678910	123@gmail.com	Ms.	diane	nguyen	ABC	DN	2	DN	2222	Singapore	342345235	credit	Y	N	N
-3	6	diep@gmail.com	1234567	diep@gmail.com	Mrs.	khoi	nguyen	MTV	DN	3	DN	3333	Singapore	4325235	credit	Y	Y	Y
